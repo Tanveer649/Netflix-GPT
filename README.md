@@ -1,4 +1,4 @@
-# netflix-gpt
+# Netflix-GPT
 
 > Use VPN to make TMDB APIs work.
 
